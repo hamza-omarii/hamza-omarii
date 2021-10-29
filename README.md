@@ -18,8 +18,7 @@ Here are some ideas to get you started:
 
 
 ##### Languages I use
-https://www.php.net/images/logos/new-php-logo.svg
-![C](https://img.shields.io/badge/-C-000000?style=flat&logo=c)
+![PHP](https://img.shields.io/badge/-C-000000?style=flat&logo=c)
 ![C++](https://img.shields.io/badge/-C++-000000?style=flat&logo=c%2B%2B)
 ![Clojure](https://img.shields.io/badge/-Clojure-000000?style=flat&logo=clojure)
 ![HTML5](https://img.shields.io/badge/-HTML5-000000?style=flat&logo=html5)
